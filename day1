@@ -1,0 +1,20 @@
+# Day 1 – Data Cleaning & Preprocessing
+
+## 📌 Objective:
+To learn how to clean and prepare raw data for machine learning.
+
+## 🛠 Tools Used:
+- Python
+- Pandas
+- NumPy
+- Seaborn / Matplotlib
+
+## ✅ Tasks Completed:
+1. Imported and explored the Titanic dataset.
+2. Handled missing values (mean, median, mode).
+3. Encoded categorical variables.
+4. Standardized numerical features.
+5. Detected and removed outliers using boxplots.
+
+## 📁 Files:
+- `titanic_cleaning.ipynb`: Jupyter Notebook with step-by-step implementation.
